@@ -7,7 +7,7 @@
 - 💼 &nbsp; Buscando uma oportunidade de emprego como desenvolvedor.
 - 🌱 &nbsp; Aprendendo mais sobre JavaScript.
 
-###:rocket: &nbsp;Minhas Skills
+### :rocket: &nbsp;Minhas Skills
 
 **Aplicações e Dados**
 
