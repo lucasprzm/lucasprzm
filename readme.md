@@ -28,11 +28,10 @@
 <br/>
 
 <a href="https://github.com/lucasprzm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasprzm&theme=dark&layout=compact" />
-</a>
-
-<a href="https://github.com/lucasprzm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasprzm&theme=dark&show_icons=true" />
+</a>
+<a href="https://github.com/lucasprzm">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasprzm&theme=dark&layout=compact" />
 </a>
 
 <br/>
