@@ -39,6 +39,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
 
-[![Linkedin: Lucas Prazeres de Matos](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasprazeresdematos/)](https://www.linkedin.com/in/lucasprazeresdematos/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasprzm@gmail.com)](mailto:lucasprzm@gmail.com)
+[![Linkedin: Lucas Prazeres de Matos](https://img.shields.io/badge/-lucasprazeresdematos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasprazeresdematos/)](https://www.linkedin.com/in/lucasprazeresdematos/)
+[![Gmail Badge](https://img.shields.io/badge/-lucasprzm@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasprzm@gmail.com)](mailto:lucasprzm@gmail.com)
 [![GitHub lucasprzm](https://img.shields.io/github/followers/lucasprzm?label=follow&style=social)](https://github.com/lucasprzm)
