@@ -3,9 +3,9 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando na <a href="https://www.gama.academy/">Gama Academy</a> para me tornar Desenvolvedor Full Stack .
+- 🎓 &nbsp; Estudando na <a href="https://www.gama.academy/">Gama Academy</a> para me tornar Desenvolvedor Júnior.
 - 💼 &nbsp; Buscando uma oportunidade de emprego como desenvolvedor.
-- 🌱 &nbsp; Aprendendo mais sobre JavaScript.
+- 🌱 &nbsp; Aprendendo mais sobre JavaScript, React e NodeJS.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
